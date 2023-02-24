@@ -1,0 +1,9 @@
+- why can't we use class component?
+
+- what are the methods of updating component? (Life cycle)
+
+- problems in class components?
+
+*****
+- How can I access comp_1 state from comp_2? => redux isn't build in, .... , ....
+*****
